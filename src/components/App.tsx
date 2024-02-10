@@ -1,10 +1,13 @@
 import "./styles/App.scss";
+import Banner from "../assets/banner.jpg";
 
 function App() {
   return (
-    <div>
-      <h1>Hello, World!</h1>
-    </div>
+    <main className="main">
+      <div className="banner">
+        <img src={Banner} alt="" />
+      </div>
+    </main>
   );
 }
 

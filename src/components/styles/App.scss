@@ -2,3 +2,22 @@
     margin: 0;
     padding: 0;
 }
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(15, 15, 15);
+    color: white;
+}
+
+.main {
+    .banner {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        img {
+            width: 100%;
+            height: 20rem;
+        }
+        
+    }
+}
