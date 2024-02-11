@@ -11,5 +11,13 @@ html, body {
 }
 
 .main {
-    
+    width: 100%;
+    height: 50vh;
+    div {
+        margin: auto;
+        padding: 0;
+        width: 98%;
+        height: 98%;
+        background-color: #252220;
+    }
 }
